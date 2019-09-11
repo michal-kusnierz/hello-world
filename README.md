@@ -1,3 +1,4 @@
 # hello-world
-My first repository
+My first repository.
+
 I am from Gdańsk, Poland.
