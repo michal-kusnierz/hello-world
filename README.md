@@ -1,5 +1,5 @@
 #### hello-GIT
-*This is first repository.*
+*This is my first repository.*
 
 I am from Gdańsk, Poland.
 
