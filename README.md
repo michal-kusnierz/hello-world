@@ -1,4 +1,8 @@
-# hello-world
-My first repository.
+#### hello-GIT
+*This is first repository.*
 
 I am from Gdańsk, Poland.
+
+-------------------
+
+## Projects:
