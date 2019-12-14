@@ -1,4 +1,5 @@
-###My name is Michał Kuśnierz. I am from Gdańsk, Poland.
+My name is Michał Kuśnierz. I am from Gdańsk, Poland. 
+
 -------------------
 
 **Scrum Team projects I've colaborated during Front-end Developer course at infoShare Academy**
