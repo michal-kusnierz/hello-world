@@ -4,7 +4,7 @@ I exercise my skills to become **Junior Front-end Developer**.
 
 -------------------
 
-During *Front-end Developer* course at *infoShare Academy* I've colaborated with Scrum projects:
+During *Front-end Developer* course at **infoShare Academy** I've collaborated with Scrum projects:
 
 #### **1. Landing page**
 - HTML5, CSS3, Sass and Vanilla JavaScript
