@@ -1,4 +1,4 @@
-###*hello GIT*
+###hello GIT
 
 ###My name is Michał Kuśnierz. I am from Gdańsk, Poland.
 
@@ -27,7 +27,7 @@ SPA created with tools:
 
 --------------
 
-###*Other creators:*
+###Other creators:
 - Aleksander Walczuk 
 - Martyna Michno 
 - Rafał Wensław
