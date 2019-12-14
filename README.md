@@ -10,6 +10,7 @@ My name is Michał Kuśnierz. I am from Gdańsk, Poland.
 - LP created with HTML5, CSS3, Sass and Vanilla JavaScript
 - mini game
 no framework used 
+
 [LP project](http://www.dreamteam.jfdd13.is-academy.pl "to the site")
 
 
@@ -20,6 +21,7 @@ SPA created with tools:
 - Semantic UI and Formik frameworks
 - Yup validation
 - integration with Firebase Realtime Database 
+
 [SPA project](http://www.dreamteam.jfdd13.is-academy.pl "to the site")
 
 --------------
