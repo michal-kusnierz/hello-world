@@ -3,14 +3,12 @@ My name is Michał Kuśnierz. I am from Gdańsk, Poland.
 -------------------
 
 **Scrum Team projects I've colaborated during Front-end Developer course at infoShare Academy**
-
-#####*October 2019 – December 2019; 320 hours*
+*October 2019 – December 2019; 320 hours*
 
 **1. Landing page**
 - LP created with HTML5, CSS3, Sass and Vanilla JavaScript
 - mini game
-
-####no framework used
+no framework used
 
 [the LP project](http://www.dreamteam.jfdd13.is-academy.pl "to the site")
 
