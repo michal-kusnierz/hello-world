@@ -1,5 +1,4 @@
-My name is Michał Kuśnierz. I am from Gdańsk, Poland.
-
+###My name is Michał Kuśnierz. I am from Gdańsk, Poland.
 -------------------
 
 **Scrum Team projects I've colaborated during Front-end Developer course at infoShare Academy**
@@ -9,7 +8,6 @@ My name is Michał Kuśnierz. I am from Gdańsk, Poland.
 - LP created with HTML5, CSS3, Sass and Vanilla JavaScript
 - mini game
 no framework used
-
 [the LP project](http://www.dreamteam.jfdd13.is-academy.pl "to the site")
 
 
@@ -19,12 +17,11 @@ SPA created with tools:
 - Semantic UI and Formik frameworks
 - Yup validation
 - integration with Firebase Realtime Database
-
 [the SPA project](http://www.dreamteam.jfdd13.is-academy.pl "to the site")
 
 --------------
 
-Other creators:
+*Other creators:*
 - Aleksander Walczuk 
 - Martyna Michno 
 - Rafał Wensław
