@@ -7,7 +7,7 @@ I am from Gdańsk, Poland.
 
 ### Projects:
 
-#*Single-page application*#
+*Single-page application*
 *Nov 2019 – Dec 2019*
 
 ##a Scrum Team project##
