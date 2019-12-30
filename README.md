@@ -28,3 +28,4 @@ During *Front-end Developer* course at **infoShare Academy** I've collaborated w
 - Martyna Michno 
 - Aleksander Walczuk 
 - Rafał Wensław
+- Michał Kuśnierz
